@@ -1,0 +1,57 @@
+{
+    "name": "EU EnvironmentAgency",
+    "description": "European Union website - EUROPA is the official EU website that provides access to information published by all EU institutions, agencies and bodies.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/584-eu-environmentagency.jpg",
+    "tags": [
+        "api provider",
+        "gis",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/eu-environmentagency\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "EU EnvironmentAgency",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/584-eu-environmentagency.jpg",
+            "humanURL": "http:\/\/www.eea.europa.eu\/code\/gis",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/eu-environmentagency-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/discomap.eea.europa.eu\/ArcGIS\/rest\/services\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.eea.europa.eu\/highlights\/archive\/RSS2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/european-union"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/euenvironment"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/EU_Commission"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.eea.europa.eu\/code\/gis"
+        }
+    ]
+}
